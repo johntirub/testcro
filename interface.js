@@ -1,4 +1,4 @@
-var minersAddr = '0x05a8E07490de1b0dc4f39A430aBAfdCFB49686A5';
+var minersAddr = '0xe02d0f573efc4cac85dc2f5afa637ba056e23ac3';
 var minersAbi = [
 	{
 		"constant": true,
